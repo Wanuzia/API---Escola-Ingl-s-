@@ -10,3 +10,4 @@
 <h1 align='center'>API</h1><h2 align='center'>Escola de Inglês</h2>
 Projeto realizado seguindo passo a passo do Curso ORM com NodeJS API com Sequelize e MySQL - Semana 11 - Desenvolve GB
 
+Continuação do projeto durante a Semana 12, seguindo orientações do curso ORM com NodeJS: avançando nas funcionalidades do Sequelize
